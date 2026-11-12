@@ -1,0 +1,4 @@
+.env
+scripts/.env
+*.key
+*.pem
